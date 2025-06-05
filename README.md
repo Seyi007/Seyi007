@@ -13,7 +13,7 @@
 
 I'm a systems-focused developer who recently completed an **Outreachy internship** with the Git project. I love making things work *under the hood* — particularly anything involving hashing, memory safety, and the guts of Git.
 
-- 🔧 Worked with Git internals: `oidmap`, `decorations`, object IDs
+- 🔧 Worked with Git testing internals: `reftable`, `oidmap`, `decorations`, object IDs
 - 💬 Passionate about writing clear, helpful code and documentation
 - 🎯 Actively seeking **full-time roles** in **systems/backend/devtools**
 
