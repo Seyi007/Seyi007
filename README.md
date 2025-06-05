@@ -86,7 +86,8 @@ I'm a systems-focused developer who recently completed an **Outreachy internship
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vQX8FtQkoU9Q8rm/giphy.gif" width="100px" />
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f504.png" width="50px" alt="refresh emoji" />
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png" width="50px" alt="smiley emoji" />
   <br>
   Thanks for visiting! Don’t forget to ⭐️ a project if it helped you.
 </p>
