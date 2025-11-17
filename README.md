@@ -30,7 +30,7 @@ I'm a systems-focused developer who completed a transformation of Git's internal
 
 ## 📂 Featured Projects 🔍
 
-### [`git/`](https://github.com/Seyi007/git) – *Outreachy Internship Project*
+### [`git/`](https://github.com/Seyi007/git) – *Outreachy Project*
 🛠️ Wrote tests for Git’s internal `oidmap` & `decorations`  
 ✅ Verified memory safety  
 ⚡ Explored how Git stores and indexes object data
