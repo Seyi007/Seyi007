@@ -11,7 +11,7 @@
 
 ## 🚀 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-I'm a systems-focused developer who recently completed an **Outreachy internship** with the Git project. I love making things work *under the hood* — particularly anything involving hashing, memory safety, and the guts of Git.
+I'm a systems-focused developer who completed a transformation of Git's internal testing structure. I love making things work *under the hood* — particularly anything involving hashing, memory safety, and the guts of Git.
 
 - 🔧 Worked with Git testing internals: `reftable`, `oidmap`, `decorations`, object IDs
 - 💬 Passionate about writing clear, helpful code and documentation
