@@ -72,7 +72,7 @@ I'm a systems-focused developer who completed a transformation of Git's internal
 
 | Platform | Link |
 |---------|------|
-| 📫 Portfolio | `https://seyi-kuforiji.xyz/`
+| 📫 Portfolio | [seyi-kuforiji.xyz](https://seyi-kuforiji.xyz/)
 | 🧑‍💻 GitHub | [@Seyi007](https://github.com/Seyi007) |
 | 💼 LinkedIn | [linkedin.com/in/seyi-kuforiji-3a591b130/](https://www.linkedin.com/in/seyi-kuforiji-3a591b130/)
 | 📫 Email | `kuforiji98@gmail.com`
